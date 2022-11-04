@@ -24,6 +24,9 @@ tag_archive_path: "/tags/#"
 
 # Collections
 collections:
+  recipes:
+    output: true
+    permalink: /:collection/:path/
   projects:
     output: true
     permalink: /:collection/:path/
@@ -46,3 +49,11 @@ defaults:
       layout: post
       comments: false
       share: false
+  # Recipe defaults
+  - scope:
+      path: "_recipes"
+      type: recipes
+    values:
+      layout: post
+      comments: true
+      share: true

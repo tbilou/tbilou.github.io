@@ -1,6 +1,9 @@
 ---
-layout: home
-limit: 10
-show_excerpts: true
-entries_layout: list
+title: Projects
+layout: collection
+permalink: /projects/
+collection: projects
+entries_layout: grid
 ---
+
+Sample document listing for the collection `_projects`.

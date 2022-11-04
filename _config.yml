@@ -2,6 +2,8 @@ remote_theme: "mmistakes/so-simple-theme@3.2.0"
 
 title: Octocat's homepage
 description: Bookmark this to keep an eye on my project updates!
+copyright: "<3"
+footer_links: false
 google_fonts:
   - name: "Source Sans Pro"
     weights: "400,400i,700,700i"

@@ -17,30 +17,15 @@ permalink: /:categories/:title/
 markdown: kramdown
 feed:
   path: atom.xml
-  
-# Taxonomy pages
-category_archive_path: "/categories/#"
-tag_archive_path: "/tags/#"
 
 # Collections
-collections:
-  recipes:
-    output: true
-    permalink: /:collection/:path/
+collections: 
   projects:
     output: true
     permalink: /:collection/:path/
 
 # Front Matter Defaults
 defaults:
-  # Post defaults
-  - scope:
-      path: "_posts"
-      type: posts
-    values:
-      layout: post
-      comments: true
-      share: true
   # Projects defaults
   - scope:
       path: "_projects"
@@ -49,11 +34,3 @@ defaults:
       layout: post
       comments: false
       share: false
-  # Recipe defaults
-  - scope:
-      path: "_recipes"
-      type: recipes
-    values:
-      layout: post
-      comments: true
-      share: true

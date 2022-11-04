@@ -1,9 +1,6 @@
 ---
-title: Projects
-layout: collection
-permalink: /projects/
-collection: projects
-entries_layout: grid
+title: Home
+layout: default
 ---
 
-Sample document listing for the collection `_projects`.
+HELLO WORLD

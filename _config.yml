@@ -18,7 +18,10 @@ markdown: kramdown
 feed:
   path: atom.xml
   
-  
+# Taxonomy pages
+category_archive_path: "/categories/#"
+tag_archive_path: "/tags/#"
+
 # Collections
 collections:
   projects:
@@ -27,6 +30,14 @@ collections:
 
 # Front Matter Defaults
 defaults:
+  # Post defaults
+  - scope:
+      path: "_posts"
+      type: posts
+    values:
+      layout: post
+      comments: true
+      share: true
   # Projects defaults
   - scope:
       path: "_projects"

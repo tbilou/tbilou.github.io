@@ -1,6 +1,7 @@
 ---
-title: Home
-layout: default
+layout: post
 ---
 
-HELLO WORLD
+Hello World
+
+I like to make things

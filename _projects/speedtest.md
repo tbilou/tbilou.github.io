@@ -1,11 +1,11 @@
 ---
 title: "OpenWrt Speedtest"
+excerpt: How fast and consistent is your internet speed?
 image: 
-  path: /images/graph.jpg
+  path: /images/speedtest_graph.jpg
   thumbnail: /images/openwrt_speedtest.jpg
   caption: ""
 ---
-How fast and consistent is your internet speed?
 
 I like how the [OpenWrt Traffic Usage Monitor](https://openwrt.org/packages/pkgdata/nlbwmon) can show me how much data each device on my networked has dowloaded/uploaded in a given time.
 
@@ -17,9 +17,7 @@ The plan is simple:
 
 Here's what I ended up doing to achieve this
 
-```yaml
-image: images/speedtest_graph.png
-```
+![graph](images/speedtest_graph.png)
 
 ## Running the Speed test 
 

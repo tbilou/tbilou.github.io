@@ -1,7 +1,7 @@
 ---
-title: "Chocolate Chip Cookies"
+title: "Speedtest"
 image: 
-  path: /images/chocolate-chip-cookies-lg.jpg
+  path: 
   thumbnail: /images/openwrt_speedtest.jpg
   caption: ""
 ---
@@ -16,7 +16,7 @@ The plan was simple:
 
 Here's what I ended up doing to achieve this
 
-![images/speedtest_graph.png]
+![graph](../images/speedtest_graph.png)
 
 ## Running the Speed test 
 

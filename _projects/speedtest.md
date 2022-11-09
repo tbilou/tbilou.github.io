@@ -1,5 +1,5 @@
 ---
-title: "Speedtest"
+title: "OpenWrt Speedtest"
 image: 
   path: 
   thumbnail: /images/openwrt_speedtest.jpg

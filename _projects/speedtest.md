@@ -7,11 +7,11 @@ image:
   caption: ""
 ---
 
-I like how the [OpenWrt Traffic Usage Monitor](https://openwrt.org/packages/pkgdata/nlbwmon) can show me how much data each device on my networked has dowloaded/uploaded in a given time.
+I like how the [OpenWrt Traffic Usage Monitor](https://openwrt.org/packages/pkgdata/nlbwmon) can show me how much data each device on my networke has dowloaded/uploaded in a given time.
 
-I also wanted a way to see if how fast my internet really is. I searched around but couldn't really find anything ready to use, so i spent some time building it myself.
+I would like to have something similar that could tell me how fast and reliable my internet really is. I searched around but couldn't really find anything easy to use, so I spent some time learning and building things =)
 
-The plan is simple: 
+The plan was simple: 
 1. run a speedtest every hour 
 2. store the result and visualize it as a graph
 

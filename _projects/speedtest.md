@@ -5,12 +5,13 @@ image:
   thumbnail: /images/openwrt_speedtest.jpg
   caption: ""
 ---
+How fast and consistent is your internet speed?
 
 I like how the [OpenWrt Traffic Usage Monitor](https://openwrt.org/packages/pkgdata/nlbwmon) can show me how much data each device on my networked has dowloaded/uploaded in a given time.
 
 I also wanted a way to see if how fast my internet really is. I searched around but couldn't really find anything ready to use, so i spent some time building it myself.
 
-The plan was simple: 
+The plan is simple: 
 1. run a speedtest every hour 
 2. store the result and visualize it as a graph
 

@@ -1,7 +1,7 @@
 ---
 title: "OpenWrt Speedtest"
 image: 
-  path: 
+  path: /images/graph.jpg
   thumbnail: /images/openwrt_speedtest.jpg
   caption: ""
 ---

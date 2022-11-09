@@ -17,7 +17,9 @@ The plan is simple:
 
 Here's what I ended up doing to achieve this
 
-![graph](../images/speedtest_graph.png)
+```yaml
+image: images/speedtest_graph.png
+```
 
 ## Running the Speed test 
 

@@ -2,7 +2,7 @@
 title: "OpenWrt Speedtest"
 excerpt: How fast and consistent is your internet speed?
 image: 
-  path: /images/speedtest_graph.jpg
+  path: 
   thumbnail: /images/openwrt_speedtest.jpg
   caption: ""
 ---
